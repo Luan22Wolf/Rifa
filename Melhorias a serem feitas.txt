@@ -1,0 +1,15 @@
+Melhorias:
+
+-Interface
+
+* Melhorar as cores
+* O espaços das janelas
+
+-Funcionalidades
+
+* Colocar uma função que verifica se algum número já foi escolhido, e adiciona se caso os outros números menos os já
+escolhidos anteriormente
+* Mostrar o nome e os números escolhidos das pessoas
+* Uma função que não permita adicionar simbolos ou números nos nomes 
+* Uma função que aumenta a primeira letra do nome 
+* Transformar o script em execultável
