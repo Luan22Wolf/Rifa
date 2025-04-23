@@ -39,4 +39,4 @@ Este é um sistema simples e funcional para sorteio de rifas utilizando **Python
 2. Execute o arquivo principal:
 
    ```bash
-   python rifa_melhoria.py
+   python Rifa_melhoria.py
