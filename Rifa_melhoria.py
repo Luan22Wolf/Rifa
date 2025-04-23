@@ -98,4 +98,4 @@ lista_participantes.heading("Nome", text="Nome")
 lista_participantes.heading("Números", text="Números Escolhidos")
 lista_participantes.pack(pady=5, fill="both", expand=True)
 
-janela.mainloop()
+janela.mainloop() 
